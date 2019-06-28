@@ -9,7 +9,8 @@ class List {
 
   /**
    * Add item to the end of the list
-   * @param item
+   * @param itemls
+   * 
    */
   push(item) {
     // Add an item to the end
